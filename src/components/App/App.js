@@ -114,9 +114,9 @@
 //----------------------------------------------------
 //VAR 2
 import { Route, Routes } from 'react-router-dom';
-import { Home } from '../pages/Home';
-import { ProductDetails } from '../pages/ProductDetails';
-import { Movies } from '../pages/MovieList';
+import { Home } from '../../pages/Home';
+import { ProductDetails } from '../../pages/ProductDetails';
+import { Movies } from '../../pages/MovieList';
 import { Container, Header, Link } from './App.styled';
 
 export const App = () => {

@@ -1,4 +1,4 @@
-import { MovieList } from '../components/MovieList';
+import { MovieList } from 'components';
 import { getProducts } from '../FakeAPI.js';
 
 export const Movies = () => {

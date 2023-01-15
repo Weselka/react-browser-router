@@ -43,7 +43,7 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from '@emotion/react';
 // import { App } from 'components/App';
-import { App } from 'components/App';
+import { App } from 'components';
 import 'modern-normalize';
 import './styles/index';
 import { theme } from 'styles';

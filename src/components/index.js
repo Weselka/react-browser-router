@@ -1,4 +1,4 @@
-export * from 'components/App';
+export * from 'components/App/App';
 export * from 'components/Container/Container.styled.js';
 export * from 'components/Section/Section.styled';
 export * from 'components/Searchbar/Searchbar';
@@ -7,4 +7,4 @@ export * from 'components/ImageGalleryItem/ImageGalleryItem';
 export * from 'components/ImageError/ImageError';
 export * from 'components/ImageError/ImageError.styled';
 export * from 'components/Loader/Loader';
-export * from 'components/Layout/Layout';
+export * from 'components/MovieList/MovieList';
